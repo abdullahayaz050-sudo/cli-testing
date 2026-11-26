@@ -1,0 +1,5 @@
+node_modules/
+.playwright-cli/
+adactin.json
+*.png
+.env
